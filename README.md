@@ -1,1 +1,1 @@
-# ai-learning-projects
+# AI-learning-projects
